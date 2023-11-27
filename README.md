@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @rubenskuhn
-- 👀 I’m interested in Motorcycles
+![Rubens Kuhn Profile Pic 1](path)
+
+#👋 Hi, I’m Rubens Kuhn
+
+👀 I’m interested in Motorcycles
 - 🌱 I’m currently learning coding: front & back end
 - 💞️ I’m looking to collaborate on... nothing: The code is all MINE! Mine alone! Wahahaha!
 - 📫 How to reach me ...
