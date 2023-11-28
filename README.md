@@ -15,8 +15,7 @@
 
 
 # My CV:
-![Rubens CV JPG](https://github.com/rubenskuhn/rubenskuhn/blob/main/CV%20Rubens%20Kuhn%202023%20Head%20of%20Marketing.pdf)
-
+![Rubens CV JPG](https://github.com/rubenskuhn/rubenskuhn/blob/main/CV_Rubens_Kuhn_Head_of_Marketing.jpg)
 
 
 
