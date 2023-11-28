@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me:
 - 📞 0176 2963-1016
-- ![WhatsApp] +55 41 99193-6333
+- ![WhatsApp](https://github.com/rubenskuhn/rubenskuhn/blob/main/WhatsApp.png) +55 41 99193-6333
 
 
 ## My CV:
