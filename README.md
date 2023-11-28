@@ -2,8 +2,13 @@
 
 #👋 Hi, I’m Rubens Kuhn
 
-👀 I’m interested in Motorcycles
-- 🌱 I’m currently learning coding: front & back end
+## 👀 Main interests:
+- ⌨️👨‍💻 Coding
+- 📢  Marketing
+- 🏍️🥷🏻 Advanced Motorcycling
+
+
+- I’m currently learning coding: front & back end
 - 💞️ I’m looking to collaborate on... nothing: The code is all MINE! Mine alone! Wahahaha!
 - 📫 How to reach me ...
 
