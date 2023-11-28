@@ -1,4 +1,4 @@
-![image](https://github.com/rubenskuhn/rubenskuhn/blob/main/image_SJGCy1d5_1701101932024_raw.jpg) width="1000" height="1000">
+<img src="https://github.com/rubenskuhn/rubenskuhn/blob/main/image_SJGCy1d5_1701101932024_raw.jpg" width="1000">
 
 # Rubens Kuhn
 
