@@ -8,13 +8,12 @@
 - 🏍️🥷🏻 Advanced Motorcycling
 
 
-- I’m currently learning coding: front & back end
-- 💞️ I’m looking to collaborate on... nothing: The code is all MINE! Mine alone! Wahahaha!
-
 ## 📫 How to reach me:
+- 📞 0176 2963-1016
+- WhatsApp +55 41 99193-6333
 
 
-# My CV:
+## My CV:
 ![Rubens CV JPG](https://github.com/rubenskuhn/rubenskuhn/blob/main/CV_Rubens_Kuhn_Head_of_Marketing.jpg)
 
 
