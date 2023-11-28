@@ -1,4 +1,4 @@
-![Rubens Kuhn Profile Pic 1](path)
+![Rubens Kuhn Profile Pic 1](https://github.com/rubenskuhn/rubenskuhn/blob/main/image_SJGCy1d5_1701101932024_raw.jpg)
 
 #👋 Hi, I’m Rubens Kuhn
 
