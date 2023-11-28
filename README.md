@@ -7,6 +7,12 @@
 - 📢  Marketing
 - 🏍️🥷🏻 Advanced Motorcycling
 
+## Kickass Projects
+
+- Developing My School (www.vidaemduasrodas.com)
+- Continue My Channel (https://www.youtube.com/channel/UCpgbfZohg-WObTmIRI9ea5w)
+- Translating My Books (https://www.amazon.de/Manual-Pilotagem-Motocicleta-essenciais-Portuguese-ebook/dp/B0BL3RJ486/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=145V6VMXZB64P&keywords=manual+de+pilotagem+de+motocicleta&qid=1701159767&sprefix=manual+de+pilotagem+de+motocicleta%2Caps%2C130&sr=8-1)
+
 
 ## 📫 How to reach me:
 - 📞 0176 2963-1016
