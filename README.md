@@ -10,7 +10,15 @@
 
 - I’m currently learning coding: front & back end
 - 💞️ I’m looking to collaborate on... nothing: The code is all MINE! Mine alone! Wahahaha!
-- 📫 How to reach me ...
+
+## 📫 How to reach me:
+
+
+# My CV:
+![Rubens CV JPG](https://github.com/rubenskuhn/rubenskuhn/blob/main/CV%20Rubens%20Kuhn%202023%20Head%20of%20Marketing.pdf)
+
+
+
 
 <!---
 rubenskuhn/rubenskuhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
