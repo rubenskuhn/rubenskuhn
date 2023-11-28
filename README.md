@@ -1,4 +1,4 @@
-![Rubens Kuhn Profile Pic 1]<img src="(https://github.com/rubenskuhn/rubenskuhn/blob/main/image_SJGCy1d5_1701101932024_raw.jpg)" width="200" height="100">
+<img src="(https://github.com/rubenskuhn/rubenskuhn/blob/main/image_SJGCy1d5_1701101932024_raw.jpg)" width="200" height="100">
 
 # Rubens Kuhn
 
